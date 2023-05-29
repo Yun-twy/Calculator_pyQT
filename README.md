@@ -1,6 +1,4 @@
-# The Calculator has developed using pyQT
-
-## Following shows the rule of the calculator
+### Calculator with pyQT
 
 ### Requirements
 1. +,-,*,/
